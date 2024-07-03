@@ -1,0 +1,6 @@
+![Inferior](https://github.com/AdrianRR20/Robot-Knights-repository/assets/174557020/1f244346-57ba-43cc-a152-6890f77621ab)
+![Superior](https://github.com/AdrianRR20/Robot-Knights-repository/assets/174557020/d2d8ed07-fee5-4609-b0e6-bb5fd2134d48)
+![Izquierdo](https://github.com/AdrianRR20/Robot-Knights-repository/assets/174557020/814543a8-2b84-4ffe-a456-bd861b58fa25)
+![Derecho](https://github.com/AdrianRR20/Robot-Knights-repository/assets/174557020/6b274b3a-b113-47cb-ae17-9fe482d5267e)
+![Anterior](https://github.com/AdrianRR20/Robot-Knights-repository/assets/174557020/08ea0d15-afb3-40ea-8481-652363031211)
+![Frontal](https://github.com/AdrianRR20/Robot-Knights-repository/assets/174557020/4f0e927b-34fa-4691-b57f-9a7fe6bca2d7)
